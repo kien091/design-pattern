@@ -1,8 +1,8 @@
 * Bản note chỉ mới ghi cách hiểu sơ lược, trong các lần sau sẽ tổng hợp các yêu cầu và những thứ cần có đủ để ứng dụng chúng vào thực tế
 
-Đọc thêm: https://github.com/doctor-blue/design-patterns/tree/master
-Xem thêm: https://youtube.com/design-pattern
-Tài liệu tham khảo: https://refactoring.guru/design-patterns
+  Đọc thêm: https://github.com/doctor-blue/design-patterns/tree/master
+  Xem thêm: https://youtube.com/design-pattern
+  Tài liệu tham khảo: https://refactoring.guru/design-patterns
 
 Nhóm Creational:
 -	Singleton Pattern: Về lý thuyết Singleton đảm bảo việc chỉ được sử dụng một đối tượng duy nhất để xử lý một công việc nào đó. Trong trường hợp các luồng đều cùng gọi nó ta phải thực hiện đồng bộ
