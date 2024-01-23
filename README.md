@@ -7,8 +7,8 @@
 ## Nhóm Creational:
 -	Singleton Pattern: Về lý thuyết Singleton đảm bảo việc chỉ được sử dụng một đối tượng duy nhất để xử lý một công việc nào đó. Trong trường hợp các luồng đều cùng gọi nó ta phải thực hiện đồng bộ  
   Đọc thêm: https://viblo.asia/p/singleton-pattern
- 	<p>
-    <img src="http://some_place.com/image.png](https://github.com/kien091/design-pattern/blob/master/Image/singleton.png?raw=true" />
+ 	<p align="center">
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/singleton.png?raw=true" />
     <p>Hình 1: Structure of Singleton</p>
   </p>
 
