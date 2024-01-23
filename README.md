@@ -13,7 +13,7 @@
   </p>
 
 -	*Factory Pattern*: Về cơ bản Factory như là đầu ra trả về kết quả khi đưa vào input cho nó. Nó như một nhà máy thực sự. Khi bạn đưa cho nó nguyên liệu thì nó sẽ đưa ra kết quả cho bạn.  
-  Đọc thêm: [https://viblo.asia/p/factory-pattern-part1](https://viblo.asia/p/design-pattern-factory-pattern-part-1-XqaGEmxZGWK)
+  Đọc thêm: [https://viblo.asia/p/factory-pattern-part1](https://viblo.asia/p/design-pattern-factory-pattern-part-1-XqaGEmxZGWK)  
  	Đọc thêm: [https://viblo.asia/p/factory-pattern-part2](https://viblo.asia/p/design-pattern-factory-pattern-part-2XQZGxZqjkwA)  
  	<p align="center">
     <img src="https://github.com/kien091/design-pattern/blob/master/Image/factory.png?raw=true" />
