@@ -9,7 +9,7 @@
   Đọc thêm: https://viblo.asia/p/singleton-pattern
  	<p align="center">
     <img src="https://github.com/kien091/design-pattern/blob/master/Image/singleton.png?raw=true" />
-    <p>Hình 1: Structure of Singleton</p>
+    <p align="center">Hình 1: Structure of Singleton</p>
   </p>
 
 -	Factory Pattern: Về cơ bản Factory như là đầu ra trả về kết quả khi đưa vào input cho nó. Nó như một nhà máy thực sự. Khi bạn đưa cho nó nguyên liệu thì nó sẽ đưa ra kết quả cho bạn.
