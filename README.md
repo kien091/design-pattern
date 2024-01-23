@@ -1,22 +1,24 @@
 * Bản note chỉ mới ghi cách hiểu sơ lược, trong các lần sau sẽ tổng hợp các yêu cầu và những thứ cần có đủ để ứng dụng chúng vào thực tế
 
   Đọc thêm: https://github.com/doctor-blue/design-patterns/tree/master  
-  Xem thêm: https://youtube.com/design-pattern  
+  Xem thêm: [https://youtube.com/design-pattern](https://www.youtube.com/playlist?list=PLRoAKls-7kksSBqximU9CjBgCApQVDgmX)  
   Tài liệu tham khảo: https://refactoring.guru/design-patterns
 
 ## Nhóm Creational:
--	Singleton Pattern: Về lý thuyết Singleton đảm bảo việc chỉ được sử dụng một đối tượng duy nhất để xử lý một công việc nào đó. Trong trường hợp các luồng đều cùng gọi nó ta phải thực hiện đồng bộ  
-  Đọc thêm: https://viblo.asia/p/singleton-pattern
+-	*Singleton Pattern*: Về lý thuyết Singleton đảm bảo việc chỉ được sử dụng một đối tượng duy nhất để xử lý một công việc nào đó. Trong trường hợp các luồng đều cùng gọi nó ta phải thực hiện đồng bộ  
+  Đọc thêm: [https://viblo.asia/p/singleton-pattern](https://viblo.asia/p/hoc-singleton-pattern-trong-5-phut-4P856goOKY3)
  	<p align="center">
     <img src="https://github.com/kien091/design-pattern/blob/master/Image/singleton.png?raw=true" />
     <p align="center">Hình 1: Structure of Singleton</p>
   </p>
 
--	Factory Pattern: Về cơ bản Factory như là đầu ra trả về kết quả khi đưa vào input cho nó. Nó như một nhà máy thực sự. Khi bạn đưa cho nó nguyên liệu thì nó sẽ đưa ra kết quả cho bạn.
-Đọc thêm: https://viblo.asia/p/factory-pattern-part1
-Đọc thêm: https://viblo.asia/p/factory-pattern-part2
- 
-Hình 2: Structure of Factory
+-	*Factory Pattern*: Về cơ bản Factory như là đầu ra trả về kết quả khi đưa vào input cho nó. Nó như một nhà máy thực sự. Khi bạn đưa cho nó nguyên liệu thì nó sẽ đưa ra kết quả cho bạn.  
+  Đọc thêm: [https://viblo.asia/p/factory-pattern-part1](https://viblo.asia/p/design-pattern-factory-pattern-part-1-XqaGEmxZGWK)
+ 	Đọc thêm: [https://viblo.asia/p/factory-pattern-part2](https://viblo.asia/p/design-pattern-factory-pattern-part-2XQZGxZqjkwA)  
+ 	<p align="center">
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/factory.png?raw=true" />
+    <p align="center">Hình 2: Structure of Factory</p>
+  </p>
 
 -	Abstract Factory Pattern: Về cơ bản nó như là một nhà máy bao gồm các nhà máy khác. Trong trường hợp các đối tượng cùng loại có các tính chất tương tự nhau và chúng có thể có nhiều hơn 2 thuộc tính (trong ví dụ là 2 vd như nội thất và loại màu)
 Đọc thêm: https://viblo.asia/p/abstract-factory-pattern
