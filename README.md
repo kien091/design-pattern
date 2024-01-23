@@ -1,7 +1,7 @@
 * Bản note chỉ mới ghi cách hiểu sơ lược, trong các lần sau sẽ tổng hợp các yêu cầu và những thứ cần có đủ để ứng dụng chúng vào thực tế
 
-  Đọc thêm: https://github.com/doctor-blue/design-patterns/tree/master
-  Xem thêm: https://youtube.com/design-pattern
+  Đọc thêm: https://github.com/doctor-blue/design-patterns/tree/master  
+  Xem thêm: https://youtube.com/design-pattern  
   Tài liệu tham khảo: https://refactoring.guru/design-patterns
 
 Nhóm Creational:
