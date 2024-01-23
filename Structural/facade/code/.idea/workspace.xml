@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33886237-3996-4dd3-968d-d5c6d51b8a93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/abstract_factory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Factory/LevelAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Factory/LevelFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Factory/Top1Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Factory/Top2Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Factory/Top3Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Medal/Bronze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Medal/Gold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Medal/Medal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Medal/Silver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Prize/FirstPrize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Prize/Prize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Prize/SecondPrize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Prize/ThirdPrize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code/src/main/java/org/example/Segment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/abstract_factory/code1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/builder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/code/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/code/src/main/java/org/example/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/code/src/main/java/org/example/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/code/src/main/java/org/example/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/code/src/main/java/org/example/HouseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/builder/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/src/main/java/org/example/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/src/main/java/org/example/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/src/main/java/org/example/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/src/main/java/org/example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/src/main/java/org/example/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/code/src/main/java/org/example/ProductType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/factory/factory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/prototype/code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/prototype/code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/prototype/code/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/prototype/code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/prototype/code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/prototype/code/src/main/java/org/example/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/prototype/code/src/main/java/org/example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/prototype/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/singleton/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/singleton/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/singleton/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/singleton/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/singleton/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/singleton/src/main/java/org/example/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/singleton/src/main/java/org/example/DoubleCheckLocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/singleton/src/main/java/org/example/EagerInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/singleton/src/main/java/org/example/LazyInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Creational/singleton/src/main/java/org/example/ThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/adapter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/code/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/code/src/main/java/org/example/BusinessAnalyst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/code/src/main/java/org/example/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/code/src/main/java/org/example/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/code/src/main/java/org/example/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/.idea/bridge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/src/main/java/org/example/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/src/main/java/org/example/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/src/main/java/org/example/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/src/main/java/org/example/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/src/main/java/org/example/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/src/main/java/org/example/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bridge/code/src/main/java/org/example/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/src/main/java/org/example/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/src/main/java/org/example/BusinessAnalyst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/src/main/java/org/example/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/src/main/java/org/example/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/src/main/java/org/example/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/src/main/java/org/example/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../composite/code/src/main/java/org/example/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/src/main/java/org/example/CheeseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/src/main/java/org/example/ChickenPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/src/main/java/org/example/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/src/main/java/org/example/PepperDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/src/main/java/org/example/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/src/main/java/org/example/PizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator/code/src/main/java/org/example/TomatoPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2bKuZQZQtoaJTEPzbBKQOeyJoyv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ASUS/Downloads/design_pattern/Structural/facade/code/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33886237-3996-4dd3-968d-d5c6d51b8a93" name="Changes" comment="" />
+      <created>1705976149368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705976149368</updated>
+      <workItem from="1705976150450" duration="380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
