@@ -4,11 +4,11 @@
   Xem thêm: https://youtube.com/design-pattern  
   Tài liệu tham khảo: https://refactoring.guru/design-patterns
 
-Nhóm Creational:
--	Singleton Pattern: Về lý thuyết Singleton đảm bảo việc chỉ được sử dụng một đối tượng duy nhất để xử lý một công việc nào đó. Trong trường hợp các luồng đều cùng gọi nó ta phải thực hiện đồng bộ
-Đọc thêm: https://viblo.asia/p/singleton-pattern
-![alt text](https://github.com/kien091/design-pattern/blob/master/Image/singleton.png?raw=true)
-Hình 1: Structure of Singleton
+## Nhóm Creational:
+-	Singleton Pattern: Về lý thuyết Singleton đảm bảo việc chỉ được sử dụng một đối tượng duy nhất để xử lý một công việc nào đó. Trong trường hợp các luồng đều cùng gọi nó ta phải thực hiện đồng bộ  
+  Đọc thêm: https://viblo.asia/p/singleton-pattern  
+:---: ![alt text](https://github.com/kien091/design-pattern/blob/master/Image/singleton.png?raw=true)  
+:---: Hình 1: Structure of Singleton
 
 -	Factory Pattern: Về cơ bản Factory như là đầu ra trả về kết quả khi đưa vào input cho nó. Nó như một nhà máy thực sự. Khi bạn đưa cho nó nguyên liệu thì nó sẽ đưa ra kết quả cho bạn.
 Đọc thêm: https://viblo.asia/p/factory-pattern-part1
@@ -31,7 +31,7 @@ Hình 4: Structure of Builder
 Đọc thêm: https://viblo.asia/p/prototype-pattern
  
 Hình 5: Structure of Prototype 
-Nhóm Structural:
+## Nhóm Structural:
 -	Adapter Pattern: Là một lớp trung gian lắp ráp giữa hai lớp khác nhau để chúng có thể hoạt động được với nhau. Sử dụng khi muốn sử dụng một số class có sẵn nhưng interface không tương thích với code hiện tại hoặc thêm một số chức năng vào subclass đã có sẵn. Gồm 2 loại là Object Adapter và Class Adapter
 Đọc thêm: https://viblo.asia/p/adapter-pattern-theory
 Đọc thêm: https://viblo.asia/p/adapter-pattern
@@ -67,7 +67,7 @@ Hình 10: Structure of Facade
 Đọc thêm: https://viblo.asia/p/proxy-pattern
 Đọc thêm: https://viblo.asia/p/proxy-pattern-2
 
-Nhóm Behavior:
+## Nhóm Behavior:
 -	Iterator Pattern (Cursor): cho phép xử lý nhiều loại tập hợp khác nhau bằng cách truy cập những phần tử của tập hợp với cách thức, phương pháp định sẵn mà không cần phải hiểu rõ những chi tiết bên trong tập hợp 
 Đọc thêm: https://viblo.asia/p/iterator-pattern
 Đọc thêm: https://viblo.asia/p/iteraror-pattern-2
