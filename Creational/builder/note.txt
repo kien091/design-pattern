@@ -1,0 +1,1 @@
+builder thường tạo ra 1 file pojo sau đó nó sẽ có 1 lớp builder trả về đối tượng là chính builder (builder có các thuộc tính giống như pojo)
