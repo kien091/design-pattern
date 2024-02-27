@@ -37,7 +37,7 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
     <p align="center">Hình 4: Structure of Builder</p>
   </p>
 
--	*Prototype Pattern*: Về cơ bản nó tạo mới đối tượng qua một đối tượng đã có sẵn trước đó.Giúp tiết kiệm thời gian và chi phí khi khởi tạo đối tượng. Một object hỗ trợ sao chép được gọi là prototype. Thường clone có 2 kiểu là shallow copy (tạo mới nhưng value đang reference tới đối tượng cũ) và deep copy (tạo mới, reference đối tượng mới)
+-	*Prototype Pattern*: Về cơ bản nó tạo mới đối tượng qua một đối tượng đã có sẵn trước đó.Giúp tiết kiệm thời gian và chi phí khi khởi tạo đối tượng. Một object hỗ trợ sao chép được gọi là prototype. Thường clone có 2 kiểu là shallow copy (tạo mới nhưng value đang reference tới đối tượng cũ) và deep copy (tạo mới, reference đối tượng mới)<br>
   Đọc thêm: [https://viblo.asia/p/prototype-pattern](https://viblo.asia/p/prototype-design-pattern-tro-thu-dac-luc-cua-developers-GrLZDBQO5k0) 
   <p align="center">
     <img src="https://github.com/kien091/design-pattern/blob/master/Image/prototype.png?raw=true" />
