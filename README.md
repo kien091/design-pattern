@@ -106,7 +106,7 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
   Đọc thêm: [https://viblo.asia/p/chain-of-responsibility-pattern]()<br>
   Đọc thêm: [https://viblo.asia/p/chain-of-responsibility-pattern-2]()
   <p align="center">
-    <img src="https://github.com/kien091/design-pattern/blob/master/Image/proxy.png?raw=true" />
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/chain-of-responsibility.png?raw=true" />
     <p align="center">Hình 13: Structure of “Chain of Responsibility”</p>
   </p>
 
@@ -114,7 +114,7 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
   Đọc thêm: [https://viblo.asia/p/command-pattern]()<br>
   Đọc thêm: [https://viblo.asia/p/cammnd-pattern-2]()
   <p align="center">
-    <img src="https://github.com/kien091/design-pattern/blob/master/Image/proxy.png?raw=true" />
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/command.png?raw=true" />
     <p align="center">Hình 14: Structure of Command</p>
   </p>
 
@@ -122,7 +122,7 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
   Đọc thêm: [https://viblo.asia/p/iterator-pattern]()<br>
   Đọc thêm: [https://viblo.asia/p/iteraror-pattern-2]()
   <p align="center">
-    <img src="https://github.com/kien091/design-pattern/blob/master/Image/proxy.png?raw=true" />
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/iterator.png?raw=true" />
     <p align="center">Hình 15: Structure of Iterator</p>
   </p>
 
@@ -130,7 +130,7 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
   Đọc thêm: [https://viblo.asia/p/mediator-pattern]()<br>
   Đọc thêm: [https://viblo.asia/p/mediator-pattern-2]()
   <p align="center">
-    <img src="https://github.com/kien091/design-pattern/blob/master/Image/proxy.png?raw=true" />
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/mediator.png?raw=true" />
     <p align="center">Hình 16: Structure of Mediator</p>
   </p>
 
@@ -138,7 +138,7 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
   Đọc thêm: [https://viblo.asia/p/memento-pattern]()<br>
   Đọc thêm: [https://viblo.asia/p/memento-pattern-2]()
   <p align="center">
-    <img src="https://github.com/kien091/design-pattern/blob/master/Image/proxy.png?raw=true" />
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/memento.png?raw=true" />
     <p align="center">Hình 17: Structure of Memento</p>
   </p>
 
@@ -146,7 +146,7 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
   Đọc thêm: [https://viblo.asia/p/observer-pattern]()<br>
   Đọc thêm: [https://viblo.asia/p/observer-pattern-2]()
   <p align="center">
-    <img src="https://github.com/kien091/design-pattern/blob/master/Image/proxy.png?raw=true" />
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/observer.png?raw=true" />
     <p align="center">Hình 18: Structure of Observer</p>
   </p>
 
@@ -154,7 +154,7 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
   Đọc thêm: [https://viblo.asia/p/state-pattern]()<br>
   Đọc thêm: [https://viblo.asia/p/state-pattern-2]()
   <p align="center">
-    <img src="https://github.com/kien091/design-pattern/blob/master/Image/proxy.png?raw=true" />
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/state.png?raw=true" />
     <p align="center">Hình 19: Structure of State</p>
   </p>
 
@@ -162,7 +162,7 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
   Đọc thêm: [https://viblo.asia/p/strategy-pattern]()<br>
   Đọc thêm: [https://viblo.asia/p/strategy-pattern-2]()
   <p align="center">
-    <img src="https://github.com/kien091/design-pattern/blob/master/Image/proxy.png?raw=true" />
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/strategy.png?raw=true" />
     <p align="center">Hình 20: Structure of Strategy</p>
   </p>
 
@@ -170,7 +170,7 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
   Đọc thêm: [https://viblo.asia/p/template-pattern]()<br>
   Đọc thêm: [https://viblo.asia/p/template-pattern-2]()
   <p align="center">
-    <img src="https://github.com/kien091/design-pattern/blob/master/Image/proxy.png?raw=true" />
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/template.png?raw=true" />
     <p align="center">Hình 21: Structure of Template</p>
   </p>
 
@@ -178,6 +178,6 @@ Ps: Thay vì dùng trực tiếp constructor từ class muốn tạo ta dùng lu
   Đọc thêm: [https://viblo.asia/p/visitor-pattern]()<br>
   Đọc thêm: [https://viblo.asia/p/visitor-pattern-2]()
   <p align="center">
-    <img src="https://github.com/kien091/design-pattern/blob/master/Image/proxy.png?raw=true" />
+    <img src="https://github.com/kien091/design-pattern/blob/master/Image/visitor.png?raw=true" />
     <p align="center">Hình 22: Structure of Visitor</p>
   </p>
